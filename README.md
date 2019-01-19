@@ -10,3 +10,4 @@ first lesson GIT
 </ul>
 <h3> Лёнич довнич </h3>
 [down](https://github.com/CherryRocket)
+[I'm an inline-style link](https://www.google.com)

@@ -11,4 +11,4 @@ first lesson GIT
 <h3> Лёнич довнич </h3>
 
 [down](https://github.com/CherryRocket)
-[I'm an inline-style link](https://www.google.com)
+![alt text](https://avatars1.githubusercontent.com/u/46626251?s=460&v=4)
